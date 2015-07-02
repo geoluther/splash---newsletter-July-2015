@@ -2,10 +2,12 @@
 Summer Drive Drawings
 =====================
 
-Tuesday July 7th - $5000 Matching Contribution Challenge
---------------------------------------------------------
+*Tuesday July 7th*
 
-Offered Tuesday, July 7th: Today the Wilson family is offering a Station Manager’s challenge. They will match your contribution dollar for dollar up to $5,000. This challenge is offered today only, Tuesday, July 7th. Call 303-449-4885 or go on-line right now to KGNU.org. This is the only matching grant we have to offer this pledge drive, so double our money today by calling 303-449-4885 or make a contribution on-line at KGNU.org. 
+$5000 Matching Contribution Challenge
+--------------------------------------
+
+Today the Wilson family is offering a Station Manager’s challenge. They will match your contribution dollar for dollar up to $5,000. This challenge is offered today only, Tuesday, July 7th. Call 303-449-4885 or go on-line right now to KGNU.org. This is the only matching grant we have to offer this pledge drive, so double our money today by calling 303-449-4885 or make a contribution on-line at KGNU.org. 
 
 
 *Offered Wednesday, July 8th:*
