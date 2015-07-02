@@ -24,8 +24,8 @@ Grand Lake Cabin Getaway Offered Friday, July 10th:
 ---------------------------------------------------
 Stay in a cabin for three nights at "Getaway Retreat at Grand Lake" in Grand Lake, Colorado.  Walking distance to both Rocky Mountain National Park and downtown Grand Lake.  Good through 2016. We’ll throw in an annual pass to visit Rocky Mountain National Park as well. Cabins are located just one block from the historic boardwalk in the center of this Old West town.  You are within walking distance of the lake, boating, fishing, shopping, hiking, horseback riding, live theater, and dining, from fine to casual.  Your car can stay parked your entire stay as you explore all that Grand Lake has to offer. They have five completely renovated cabins, surrounding a private courtyard with three propane and one wood fire pits, gazebo, picnic tables, and gas BBQ grills for your use.  There is plenty of room to enjoy your own private space in the courtyard and room for the entire gang to gather for s'mores and ghost stories. More information at  http://getawayretreatgl.com.
 
-Offered Saturday, July 11th
------------------------------ 
+*Offered Saturday, July 11th*
+
 Drawing to win a 3-Day pass with camping to Folk Festival at Planet Bluegrass August 14th, 15th and 16th
 ---------------------------------------------------------------------------------------------------------
 
@@ -37,6 +37,19 @@ In the 25 years since we started our modest "summit on the song" the festival ha
 > is the last drawing offered during the summer mini-drive, so become a new member, renew, or make an
 > additional contribution and be entered to win. The drawing will be held at 4700 Walnut St., Boulder, CO 
 > 80301 at noon on July 27th.
+
+
+Tickets:
+--------
+- Phish 
+- Avett Brothers 
+- Jiffy Cliff 
+- Riot Fest
+
+Shirts
+------
+use images from last year
+
 
 
 ### Header 3

@@ -1,0 +1,31 @@
+
+
+
+shirt spotlight urls: 
+
+reggae:
+http://www.kgnu.org/cgi-bin/moreinfo.py?Notice=1363186753
+
+waves:
+http://www.kgnu.org/cgi-bin/moreinfo.py?Notice=1330474534
+
+honky tonk:
+http://www.kgnu.org/cgi-bin/moreinfo.py?Notice=1330479321
+
+news:
+http://www.kgnu.org/cgi-bin/moreinfo.py?Notice=1425418822
+
+
+todo:
+
+update tshirt images + rollovers
+link to correct spotlight pages
+doublecheck urls in spotlight pages
+
+upload special banners
+link to music specials spotlight
+link to news specials spotlight
+
+upload splash
+
+profit.
