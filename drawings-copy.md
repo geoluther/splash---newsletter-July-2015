@@ -1,16 +1,19 @@
+
 Summer Drive Drawings
 =====================
 
 Tuesday July 7th - $5000 Matching Contribution Challenge
---------------------------------------
+--------------------------------------------------------
+
 Offered Tuesday, July 7th: Today the Wilson family is offering a Station Manager’s challenge. They will match your contribution dollar for dollar up to $5,000. This challenge is offered today only, Tuesday, July 7th. Call 303-449-4885 or go on-line right now to KGNU.org. This is the only matching grant we have to offer this pledge drive, so double our money today by calling 303-449-4885 or make a contribution on-line at KGNU.org. 
 
 
-Carbondale Rafting Weekend July 8th
------------------------------------
+*Offered Wednesday, July 8th:*
 
-Offered Wednesday, July 8th: Drawing for Rafting Trip this summer to Carbondale: 
-This mountain getaway includes a half-day raft trip for two from Blazing Adventures - blazingadventures.com; lodging at the Days Inn in Carbondale-daysinn.com/hotels/colorado/carbondale/days-inn-carbondale/hotel-overview;  and dinner at White House Pizza in Carbondale.
+Carbondale Rafting Weekend
+--------------------------
+
+Drawing for Rafting Trip this summer to Carbondale: This mountain getaway includes a half-day raft trip for two from Blazing Adventures - blazingadventures.com; lodging at the Days Inn in Carbondale-daysinn.com/hotels/colorado/carbondale/days-inn-carbondale/hotel-overview;  and dinner at White House Pizza in Carbondale.
 
 The winner needs to reserve ahead of time with Blazing Adventures. The gift certificate has to be used before September 15th. The drawing will be held at 4700 Walnut St., Boulder, CO 80301 at noon on July 10th. Pledges made to KGNU June 12th through July 8th and current SOLR members are all entered into the drawing. The drawing ends today so call or go on-line right now…We will also be entered into the other drawings offered during the summer mini-drive, so get on board now and be entered throughout the drive.
 
@@ -22,7 +25,7 @@ Drawing for Denver Concert Weekend Getaway
 
 You and your sweetie are going for an urban weekend adventure in Denver. Two nights, two shows, two dinners on us. You’ll get a pair of 3-day tickets to Riot Fest. You are dining at Fourteen Seventy-Two and Dougherty’s Neighborhood Pub. AND, we’ll put you up for two nights at the Curtis, Doubletree Hilton. Located in the heart of downtown Denver, the 336-room Curtis recently completed an extensive $7 million renovation that included upgrades to all 336 guest rooms, a lobby expansion and the creation of 13 “hyper themed” suites all featuring custom art by Colorado artists, unique flooring and decorations. Available suites include a Star Trek suite on the “Sci-Fi” floor and a Jimmy Buffett room on the “Mad About Music” floor. For more information, please visit www.thecurtis.com.
 
-* Offered Friday, July 10th: *
+*Offered Friday, July 10th:*
 
 Grand Lake Cabin Getaway   
 -------------------------
