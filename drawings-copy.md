@@ -15,13 +15,17 @@ This mountain getaway includes a half-day raft trip for two from Blazing Adventu
 The winner needs to reserve ahead of time with Blazing Adventures. The gift certificate has to be used before September 15th. The drawing will be held at 4700 Walnut St., Boulder, CO 80301 at noon on July 10th. Pledges made to KGNU June 12th through July 8th and current SOLR members are all entered into the drawing. The drawing ends today so call or go on-line right now…We will also be entered into the other drawings offered during the summer mini-drive, so get on board now and be entered throughout the drive.
 
 
-Offered Thursday, July 9th: Drawing for Denver Concert Weekend Getaway
--------------------------------------------------------------------------
+*Offered Thursday, July 9th:* 
+
+Drawing for Denver Concert Weekend Getaway
+-------------------------------------------
 
 You and your sweetie are going for an urban weekend adventure in Denver. Two nights, two shows, two dinners on us. You’ll get a pair of 3-day tickets to Riot Fest. You are dining at Fourteen Seventy-Two and Dougherty’s Neighborhood Pub. AND, we’ll put you up for two nights at the Curtis, Doubletree Hilton. Located in the heart of downtown Denver, the 336-room Curtis recently completed an extensive $7 million renovation that included upgrades to all 336 guest rooms, a lobby expansion and the creation of 13 “hyper themed” suites all featuring custom art by Colorado artists, unique flooring and decorations. Available suites include a Star Trek suite on the “Sci-Fi” floor and a Jimmy Buffett room on the “Mad About Music” floor. For more information, please visit www.thecurtis.com.
 
-Grand Lake Cabin Getaway Offered Friday, July 10th:  
----------------------------------------------------
+* Offered Friday, July 10th: *
+
+Grand Lake Cabin Getaway   
+-------------------------
 Stay in a cabin for three nights at "Getaway Retreat at Grand Lake" in Grand Lake, Colorado.  Walking distance to both Rocky Mountain National Park and downtown Grand Lake.  Good through 2016. We’ll throw in an annual pass to visit Rocky Mountain National Park as well. Cabins are located just one block from the historic boardwalk in the center of this Old West town.  You are within walking distance of the lake, boating, fishing, shopping, hiking, horseback riding, live theater, and dining, from fine to casual.  Your car can stay parked your entire stay as you explore all that Grand Lake has to offer. They have five completely renovated cabins, surrounding a private courtyard with three propane and one wood fire pits, gazebo, picnic tables, and gas BBQ grills for your use.  There is plenty of room to enjoy your own private space in the courtyard and room for the entire gang to gather for s'mores and ghost stories. More information at  http://getawayretreatgl.com.
 
 *Offered Saturday, July 11th*
