@@ -26,6 +26,62 @@ var tix = [
 			"imgSrc": "./splash/img/avett-bros-july12.jpg",
 			"imgOver": "./splash/img/avett-bros-july12-over.jpg",
 			"link": "https://kgnu.org/ht/quickjoin.html?level=150&premium_type=premium_other&premium=Avett%20Bros%20Tickets%20July12"
+		},
+
+		{
+			"name": "Phish Sept 4",
+			"id": "phish-sept4",
+			"imgSrc": "./splash/img/phish-sept4.jpg",
+			"imgOver": "./splash/img/phish-sept4-over.jpg",
+			"link": "https://kgnu.org/ht/quickjoin.html?level=150&premium_type=premium_other&premium=Phish%20Tix%20Sept4"
+		},
+
+		{
+			"name": "Phish Sept 5",
+			"id": "phish-sept5",
+			"imgSrc": "./splash/img/phish-sept5.jpg",
+			"imgOver": "./splash/img/phish-sept5-over.jpg",
+			"link": "https://kgnu.org/ht/quickjoin.html?level=150&premium_type=premium_other&premium=Phish%20Tix%20Sept5"
+		},		
+		
+		{
+			"name": "Phish Sept 6",
+			"id": "phish-sept6",
+			"imgSrc": "./splash/img/phish-sept6.jpg",
+			"imgOver": "./splash/img/phish-sept6-over.jpg",
+			"link": "https://kgnu.org/ht/quickjoin.html?level=150&premium_type=premium_other&premium=Phish%20Tix%20Sept6"
+		},	
+		
+		{
+			"name": "Riot Fest Aug 28",
+			"id": "riot-fest-aug28",
+			"imgSrc": "./splash/img/riot-fest-aug28.jpg",
+			"imgOver": "./splash/img/riot-fest-aug28-over.jpg",
+			"link": "https://kgnu.org/ht/quickjoin.html?level=150&premium_type=premium_other&premium=Riot%20Fest%20Tix%20Aug28"
+		},
+
+		{
+			"name": "Riot Fest Aug 29",
+			"id": "riot-fest-aug29",
+			"imgSrc": "./splash/img/riot-fest-aug29.jpg",
+			"imgOver": "./splash/img/riot-fest-aug29-over.jpg",
+			"link": "https://kgnu.org/ht/quickjoin.html?level=150&premium_type=premium_other&premium=iot%20Fest%20Tix%20Aug29"
+		},
+
+		{
+			"name": "Riot Fest Aug 30",
+			"id": "riot-fest-aug30",
+			"imgSrc": "./splash/img/riot-fest-aug30.jpg",
+			"imgOver": "./splash/img/riot-fest-aug30-over.jpg",
+			"link": "https://kgnu.org/ht/quickjoin.html?level=150&premium_type=premium_other&premium=iot%20Fest%20Tix%20Aug30"
+		},		
+
+		{
+			"name": "Jimmy Cliff",
+			"id": "jimmy-cliff-july28",
+			"imgSrc": "./splash/img/jimmy-cliff-july28.jpg",
+			"imgOver": "./splash/img/jimmy-cliff-july28-over.jpg",
+			"link": "https://kgnu.org/ht/quickjoin.html?level=150&premium_type=premium_other&premium=Jimmy%20Cliff%20Tix%20July28"
 		}
 	];
 
@@ -139,7 +195,6 @@ function buildGifts(gifts, id) {
             	swap(giftCopy);
             };
         })(gift));
-
 
         elem.addEventListener("touchstart", (function(giftCopy) {
             return function() { 
