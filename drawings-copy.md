@@ -50,9 +50,9 @@ In the 25 years since we started our modest "summit on the song" the festival ha
 
 Tickets:
 --------
-- Phish 
+- Phish sept 4-5-6
 - Avett Brothers 
-- Jiffy Cliff 
+- Jimmy Cliff 
 - Riot Fest
 
 Shirts
