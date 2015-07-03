@@ -25,7 +25,7 @@ The winner needs to reserve ahead of time with Blazing Adventures. The gift cert
 Drawing for Denver Concert Weekend Getaway
 -------------------------------------------
 
-You and your sweetie are going for an urban weekend adventure in Denver. Two nights, two shows, two dinners on us. You’ll get a pair of 3-day tickets to Riot Fest. You are dining at Fourteen Seventy-Two and Dougherty’s Neighborhood Pub. AND, we’ll put you up for two nights at the Curtis, Doubletree Hilton. Located in the heart of downtown Denver, the 336-room Curtis recently completed an extensive $7 million renovation that included upgrades to all 336 guest rooms, a lobby expansion and the creation of 13 “hyper themed” suites all featuring custom art by Colorado artists, unique flooring and decorations. Available suites include a Star Trek suite on the “Sci-Fi” floor and a Jimmy Buffett room on the “Mad About Music” floor. For more information, please visit www.thecurtis.com.
+You and your sweetie are going for an urban weekend adventure in Denver. Two nights, two shows, two dinners on us. You’ll get a pair of 3-day tickets to Riot Fest. You are dining at Fourteen Seventy-Two and Dougherty’s Neighborhood Pub. AND, we’ll put you up for two nights at the Curtis, Doubletree Hilton. Located in the heart of downtown Denver, the 336-room Curtis recently completed an extensive $7 million renovation that included upgrades to all 336 guest rooms, a lobby expansion and the creation of 13 "hyper themed" suites all featuring custom art by Colorado artists, unique flooring and decorations. Available suites include a Star Trek suite on the "Sci-Fi" floor and a Jimmy Buffett room on the "Mad About Music" floor. For more information, please visit www.thecurtis.com.
 
 *Offered Friday, July 10th:*
 
@@ -52,7 +52,7 @@ Tickets:
 --------
 - Phish sept 4-5-6
 - Avett Brothers 
-- Jimmy Cliff 
+- Jimmy Cliff ($120 - it's sold out)
 - Riot Fest
 
 Shirts
