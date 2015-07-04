@@ -109,4 +109,13 @@ img .centered {
 	-webkit-filter: blur(1px) grayscale(75%);
 }
 
+.splash-img {
+	transition: all 0.3s ease; 
+	opacity: 0.7;
+}
+
+.splash-img:hover {
+	opacity: 1.0;
+	transition: 0.2s ease;
+}
 
