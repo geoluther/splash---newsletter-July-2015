@@ -56,7 +56,7 @@ p {
 }
 
 .panel a:hover {
-	color: #ee7727;
+	color: #fff;
 }
 
 .kgnu-blue {
@@ -110,7 +110,7 @@ img .centered {
 }
 
 .splash-img {
-	transition: all 0.3s ease; 
+	transition: all 0.3s ease;
 	opacity: 0.7;
 }
 

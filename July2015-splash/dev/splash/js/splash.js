@@ -3,7 +3,7 @@
 
 
 var tix = [
-		
+
 		{
 			"name": "Avett Brothers July 10",
 			"id": "avett-brothers-july10",
@@ -29,6 +29,14 @@ var tix = [
 		},
 
 		{
+			"name": "Riot Fest Weekend",
+			"id": "riot-fest-wknd",
+			"imgSrc": "./splash/img/riot-fest-wknd.jpg",
+			"imgOver": "./splash/img/riot-fest-wknd-over.jpg",
+			"link": "https://kgnu.org/ht/quickjoin.html?level=300&premium_type=premium_other&premium=iot%20Fest%20Weekend"
+		},
+
+		{
 			"name": "Phish Sept 4",
 			"id": "phish-sept4",
 			"imgSrc": "./splash/img/phish-sept4.jpg",
@@ -42,47 +50,23 @@ var tix = [
 			"imgSrc": "./splash/img/phish-sept5.jpg",
 			"imgOver": "./splash/img/phish-sept5-over.jpg",
 			"link": "https://kgnu.org/ht/quickjoin.html?level=150&premium_type=premium_other&premium=Phish%20Tix%20Sept5"
-		},		
-		
+		},
+
 		{
 			"name": "Phish Sept 6",
 			"id": "phish-sept6",
 			"imgSrc": "./splash/img/phish-sept6.jpg",
 			"imgOver": "./splash/img/phish-sept6-over.jpg",
 			"link": "https://kgnu.org/ht/quickjoin.html?level=150&premium_type=premium_other&premium=Phish%20Tix%20Sept6"
-		},	
-		
-		{
-			"name": "Riot Fest Aug 28",
-			"id": "riot-fest-aug28",
-			"imgSrc": "./splash/img/riot-fest-aug28.jpg",
-			"imgOver": "./splash/img/riot-fest-aug28-over.jpg",
-			"link": "https://kgnu.org/ht/quickjoin.html?level=150&premium_type=premium_other&premium=Riot%20Fest%20Tix%20Aug28"
-		},
-
-		{
-			"name": "Riot Fest Aug 29",
-			"id": "riot-fest-aug29",
-			"imgSrc": "./splash/img/riot-fest-aug29.jpg",
-			"imgOver": "./splash/img/riot-fest-aug29-over.jpg",
-			"link": "https://kgnu.org/ht/quickjoin.html?level=150&premium_type=premium_other&premium=iot%20Fest%20Tix%20Aug29"
-		},
-
-		{
-			"name": "Riot Fest Aug 30",
-			"id": "riot-fest-aug30",
-			"imgSrc": "./splash/img/riot-fest-aug30.jpg",
-			"imgOver": "./splash/img/riot-fest-aug30-over.jpg",
-			"link": "https://kgnu.org/ht/quickjoin.html?level=150&premium_type=premium_other&premium=iot%20Fest%20Tix%20Aug30"
-		},		
-
-		{
-			"name": "Jimmy Cliff",
-			"id": "jimmy-cliff-july28",
-			"imgSrc": "./splash/img/jimmy-cliff-july28.jpg",
-			"imgOver": "./splash/img/jimmy-cliff-july28-over.jpg",
-			"link": "https://kgnu.org/ht/quickjoin.html?level=150&premium_type=premium_other&premium=Jimmy%20Cliff%20Tix%20July28"
 		}
+
+		// ,{
+		// 	"name": "Jimmy Cliff",
+		// 	"id": "jimmy-cliff-july28",
+		// 	"imgSrc": "./splash/img/jimmy-cliff-july28.jpg",
+		// 	"imgOver": "./splash/img/jimmy-cliff-july28-over.jpg",
+		// 	"link": "https://kgnu.org/ht/quickjoin.html?level=150&premium_type=premium_other&premium=Jimmy%20Cliff%20Tix%20July28"
+		// }
 	];
 
 var cds = {
@@ -173,11 +157,11 @@ function buildGifts(gifts, id) {
 
 	// console.log("you called buildGifts!");
 	// console.log("length " + gifts.gift.length);
-	
+
 	for (var i = 0; i < gifts.length; i++) {
 
 		var gift = gifts[i];
-		
+
 		var img = '<img class="gift-img" src="' + gift.imgSrc + '" id="'+ gift.id +'" >';
 		var html = '<a href="' + gift.link + '">' + img + '</a>';
 
@@ -185,7 +169,7 @@ function buildGifts(gifts, id) {
 		elem.innerHTML = html;
 
         elem.addEventListener("mouseover", (function(giftCopy) {
-            return function() { 
+            return function() {
             	swap(giftCopy);
             };
         })(gift));
@@ -197,7 +181,7 @@ function buildGifts(gifts, id) {
         })(gift));
 
         elem.addEventListener("touchstart", (function(giftCopy) {
-            return function() { 
+            return function() {
             	swap(giftCopy);
             };
         })(gift));
